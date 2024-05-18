@@ -231,7 +231,7 @@ export const animeEndings = [
   },
   {
     name: "Maburaho - \"Koi no Mahou\" by ICHIKO",
-    videoId: "https://ladist1.catbox.video/70zlnb.webm",
+    videoId: "https://ladist1.catbox.video/nfujkk.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
